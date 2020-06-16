@@ -12,4 +12,4 @@
 [一战搞定GRE--经验帖 ](https://www.cc98.org/topic/4830496)<br>
 
 ### 个人考试过程和复习过程回忆
-[菜鸟GRE回忆](https://github.com/KilluaKukuroo/GRE-preparation/blob/master/2019-09-08-GRE 考试复习过程回忆.pdf)<br>
+[菜鸟GRE回忆](https://github.com/KilluaKukuroo/GRE-preparation/blob/master/2019-09-08-GRE考试复习过程回忆.pdf)<br>
